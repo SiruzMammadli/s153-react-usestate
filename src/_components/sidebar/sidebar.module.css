@@ -1,0 +1,8 @@
+aside {
+    width: 240px;
+    border-right: 1px solid #ddd;
+
+    a {
+        display: block;
+    }
+}
